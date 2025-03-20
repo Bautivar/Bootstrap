@@ -1,0 +1,6 @@
+section#banner{
+    background: url(arcane/img/banner.jpg) no-repeat center center / cover;
+    height: 100vh;
+    min-width: 100%;
+
+}
