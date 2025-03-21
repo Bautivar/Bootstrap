@@ -1,6 +1,31 @@
+body,html{
+    color: #d3d3d3;
+}
+:root{
+    ---morado:#671e3d;
+}
+h1{
+    color: white;
+}
+section{
+    min-width: 100%;
+}
 section#banner{
     background: url(arcane/img/banner.jpg) no-repeat center center / cover;
     height: 100vh;
-    min-width: 100%;
-
+}
+section#plan{
+    background-color: var(---morado);
+    .col-11{
+        width: 100%;
+    }
+}
+section#contexto{
+    background-color: rgb(38, 37, 37);
+}
+section#capitulos{
+    background-color: rgb(38, 37, 37); 
+}
+section#musica{
+    background-color: rgb(38, 37, 37);
 }
