@@ -1,0 +1,13 @@
+#banner{
+    background-image: url(arcane/img/banner.jpg);
+    background-size: cover;
+}
+#pago{
+    background-color: #671E3D;
+}
+body{
+    background-color: #333333;
+}
+#presentacion{
+    color: #D3D3D3;
+}
