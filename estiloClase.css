@@ -13,4 +13,11 @@ body{
 }
 #episodios{
     color: #D3D3D3;
+    font-size: .8rem;
+}
+#musica{
+    color: #D3D3D3;
+    p{
+        color: black;
+    }
 }
